@@ -22,7 +22,11 @@
 	$("p").click(function(){
 		$(this).css('color','red');
 	});
-
+	
+	var arr = [];
+	$('button').click(function(){
+		arr.push("data";)
+	});
 
 </script>
 </html>
